@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Viewer</title>
+</head>
+<body>
+    <h1>Image Viewer</h1>
+    {% if image_path %}
+        <img id="displayed-image" src="{{ url_for('static', filename=image_path.split('/', 1)[1]) }}" style="max-width: 80%;"><br><br>
+    {% else %}
+        <p>No images found in the folder.</p>
+    {% endif %}
+
+    <button onclick="loadRandomImage()">Random Image</button>
+
+    <script>
+        function loadRandomImage() {
+            fetch('/random')
+                .then(response => response.text())
+                .then(path => {
+                    document.getElementById('displayed-image').src = "/static/" + path;
+                });
+        }
+    </script>
+</body>
+</html>

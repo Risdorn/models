@@ -1,0 +1,24 @@
+AI Courses:
+E0 249 Approximation Algo - 4 creds
+E0 238 Intelligent Agents - 4 creds
+E9 208 Digital Video: Perception and Algorithms - 4 creds
+CP 214 Foundations of Robotics - 4 creds
+
+E0 271 Graphics and Visualization - 4 creds - https://www.csa.iisc.ac.in/~vijayn/courses/Graphics/index.html
+E0 261 Database Management Systems - 4 creds
+E0 240 Modeling and Simulation - 4 creds - https://sites.google.com/view/csa-e0240/course
+
+DS 221 Introduction to Scalable Systems - 4 creds
+DS 222 Machine Learning with Large Datasets - 4 creds - https://github.com/kapilpathak1112/DS222
+DS 252 Cloud Computing - 4 creds
+DS 261 Artificial Intelligence for Medical Image Analysis - 4 creds
+
+SHORTLISTED
+E0 259 Data Analytics - 4 creds - https://ece.iisc.ac.in/~rajeshs/E0259.htm
+E1 245 Online Prediction and Learning - 3 creds - https://ece.iisc.ac.in/~aditya/E1245_F18.html https://ece.iisc.ac.in/~aditya/E1245_F14.html
+E1 201 Hardware Acceleration and Optimization for ML - 3 creds - https://labs.dese.iisc.ac.in/neuronics/course-e1-201-jan2020/
+
+JAN COURSES
+DS 244 Hardware-aware Scientific Computing - 3 creds
+DS 255 System Virtualization - 4 creds
+DS 295 Parallel Programming - 4 creds
