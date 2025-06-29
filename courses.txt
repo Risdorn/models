@@ -22,3 +22,6 @@ JAN COURSES
 DS 244 Hardware-aware Scientific Computing - 3 creds
 DS 255 System Virtualization - 4 creds
 DS 295 Parallel Programming - 4 creds
+
+
+cat model_chunk_* > large_model.safetensors
