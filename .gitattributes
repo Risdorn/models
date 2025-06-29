@@ -2,3 +2,4 @@
 *.ckpt filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 C:/Users/Rishabh/Downloads/models/stable-diffusion-2-1/unet/diffusion_pytorch_model.fp16.safetensors filter=lfs diff=lfs merge=lfs -text
+C:/Users/Rishabh/Downloads/models/stable-diffusion-2-1/unet/diffusion_pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
